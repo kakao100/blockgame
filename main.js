@@ -9,8 +9,8 @@ var game = {
     },
     fps: 30,
     cvs: {
-        width: 640,
-        height: 480
+        width: 300,
+        height: 640
     }, // キャンバス：サイズ
     paddle: {
         size: 50,
